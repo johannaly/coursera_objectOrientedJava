@@ -60,11 +60,11 @@
     työn tekeminen pysyy koko ajan mielenkiintoisena jatkuvuuden vuoksi. Samalla tulee myös kokemusta siitä, miten vähän isompia töitä voidaan toteuttaa, eikä
     oppiminen jää vain pelkkien pienten töiden varaan.</p>
     
-    <p>Kokonaisuutena pidin kurssista. Huonona puolena koin sen, että tukea ja apua oli melko rajallisesti saatavilla ja google olikin välillä
+   <p>Kokonaisuutena pidin kurssista. Huonona puolena koin sen, että tukea ja apua oli melko rajallisesti saatavilla ja google olikin välillä
     kovassa käytössä. Kurssialueella on toki oma keskustelualue jokaiselle osiolla ja näissä voi keskustella ja kysellä kurssin aiheista. Näin laajalle 
     joukolle tarjottavissa kursseissa on toki mahdoton järjestää jokaiselle henkilökohtaista ohjausta.</p>
 
-    <p>Pidin kurssin edetessä päiväkirjaa kurssiin menevästä ajasta. Ensimmäiset osiot olivat suhteellisen nopeita, mutta mitä pidemmälle kurssissa 
+   <p>Pidin kurssin edetessä päiväkirjaa kurssiin menevästä ajasta. Ensimmäiset osiot olivat suhteellisen nopeita, mutta mitä pidemmälle kurssissa 
         edettiin, sitä monimutkaisemmiksi tehtävät muuttuivat ja aikaakin alkoi kulumaan eri tavalla. Yhteensä kurssiin meni aikaa noin 50 tuntia. 
      </p>
     
