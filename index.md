@@ -3,7 +3,7 @@
     <head>
       <meta charset="UTF-8">
       <link rel="stylesheet" type="text/css" href="style.css">
-      <title>Johanna Lyytinen, harjoitustyön raportti</title>
+   <title>Johanna Lyytinen, harjoitustyön raportti</title>
   </head>
 <body>
 
